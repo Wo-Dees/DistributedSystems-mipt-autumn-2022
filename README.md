@@ -1,1 +1,1 @@
-# -DistributedSystems-mipt-autumn-2022
+# DistributedSystems-mipt-autumn-2022
